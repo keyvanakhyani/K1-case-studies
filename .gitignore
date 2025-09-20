@@ -12,9 +12,17 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Data
+telco-customer-churn/data/raw/
+telco-customer-churn/data/*.csv
+telco-customer-churn/!data/processed/
+Stroke Prediction Datase/data/raw/
+Stroke Prediction Datase/data/*.csv
+Stroke Prediction Datase/!data/processed/
+Bank Customer Churn Dataset/data/raw/
+Bank Customer Churn Dataset/data/*.csv
+Bank Customer Churn Dataset/!data/processed/
 data/raw/
 data/*.csv
 !data/processed/
