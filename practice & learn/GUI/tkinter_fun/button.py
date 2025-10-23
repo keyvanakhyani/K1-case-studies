@@ -40,3 +40,7 @@ button5 = Button(window, text="Hand Cursor", cursor="hand2")
 button5.pack(pady= 10)
 window.mainloop()
 
+print("car")
+print("b")
+print("c")
+print("car")
